@@ -7,7 +7,7 @@ class RotationIconApp extends StatelessWidget {
     return new MaterialApp(
       title: 'Flutter demo',
       theme: new ThemeData(primarySwatch: Colors.blue),
-      home: new MyHomePage(title: 'icon rotation'),
+      home: new MyHomePage(title: '아이콘 회전'),
     );
   }
 }
